@@ -1,0 +1,33 @@
+{
+  "name": "approx",
+  "description": "Give me an approximate number around this one (for setTimeout/setInterval etc).",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^3.5.0"
+  },
+  "homepage": "https://github.com/chilts/approx",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:chilts/approx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chilts/approx/issues"
+  },
+  "author": {
+    "name": "Andrew Chilton",
+    "email": "andychilton@gmail.com",
+    "url": "http://chilts.org/"
+  },
+  "keywords": [
+    "approximate",
+    "timing",
+    "number",
+    "around"
+  ]
+}
